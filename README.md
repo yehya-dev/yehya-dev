@@ -1,5 +1,5 @@
 <section align="center">
-<img height="25px" width="100%" src="header.png">
+<img width="100%" src="header.png">
 <h1>Hi 👋, I am Yehya Usman</h1>
 <h3>Passionate Self Taught Developer From India</h3>
 </section>
