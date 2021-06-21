@@ -1,42 +1,37 @@
-<style>
-div img {
-    height: 30px;
-}
-</style>
-
-<section  style="text-align: center;">
-<img style="width:100%;" src="header.png">
+<section align="center">
+<img height="25px" width="100%" src="header.png">
 <h1>Hi 👋, I am Yehya Usman</h1>
 <h3>Passionate Self Taught Developer From India</h3>
 </section>
 <hr>
 <section>
-<h3 style="margin-bottom:13px;">🧰 Tools And Technologies</h3>
-<div style="dispay:flex;flex-wrap:wrap;">
-<img src="icons/PYTHON.png">
-<img src="icons/JAVASCRIPT.png">
-<img src="icons/DJANGO.png">
-<img src="icons/FLASK.png">
-<img src="icons/VUEJS.png">
-<img src="icons/VSCODE.png">
-<img src="icons/HTML.png">
-<img src="icons/CSS.png">
-<img src="icons/TAILWIND CSS.png">
-<img src="icons/GIT.png">
-<img src="icons/GITHUB.png">
-<img src="icons/LINUX.png">
-<img src="icons/POSTGRESQL.png">
-<img src="icons/MYSQL.png">
-<img src="icons/SQLITE.png">
-<img src="icons/SASS.png">
-<img src="icons/NODEJS.png">
-<img src="icons/HEROKU.png">
-<img src="icons/JSON.png">
-<img src="icons/NPM.png">
-<img src="icons/JINJA.png">
-<img src="icons/IONIC.png">
-<img src="icons/MARKDOWN.png">
-<img src="icons/OPENCV.png">
+<h3>🧰 Tools And Technologies</h3>
+<br>
+<div>
+<img height="25px" src="icons/PYTHON.png">
+<img height="25px" src="icons/JAVASCRIPT.png">
+<img height="25px" src="icons/DJANGO.png">
+<img height="25px" src="icons/FLASK.png">
+<img height="25px" src="icons/VUEJS.png">
+<img height="25px" src="icons/VSCODE.png">
+<img height="25px" src="icons/HTML.png">
+<img height="25px" src="icons/CSS.png">
+<img height="25px" src="icons/TAILWIND CSS.png">
+<img height="25px" src="icons/GIT.png">
+<img height="25px" src="icons/GITHUB.png">
+<img height="25px" src="icons/LINUX.png">
+<img height="25px" src="icons/POSTGRESQL.png">
+<img height="25px" src="icons/MYSQL.png">
+<img height="25px" src="icons/SQLITE.png">
+<img height="25px" src="icons/SASS.png">
+<img height="25px" src="icons/NODEJS.png">
+<img height="25px" src="icons/HEROKU.png">
+<img height="25px" src="icons/JSON.png">
+<img height="25px" src="icons/NPM.png">
+<img height="25px" src="icons/JINJA.png">
+<img height="25px" src="icons/IONIC.png">
+<img height="25px" src="icons/MARKDOWN.png">
+<img height="25px" src="icons/OPENCV.png">
 
 </div>
 </section>
