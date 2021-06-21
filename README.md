@@ -1,7 +1,7 @@
 <section align="center">
 <img width="100%" src="header.png">
-<h1>Hi 👋, I am Yehya Usman</h1>
-<h3>Passionate Self Taught Developer From India</h3>
+<h1 align="center">Hi 👋, I am Yehya Usman</h1>
+<h3 align="center">Passionate Self Taught Developer From India</h3>
 </section>
 <hr>
 <section>
