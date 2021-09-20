@@ -2,7 +2,6 @@
 <img width="100%" src="header.png">
 <h1 align="center">Hi 👋, I am Yehya Usman</h1>
 </section>
-<hr>
 <section>
 <h3>🧰 Tools And Technologies</h3>
 <br>
